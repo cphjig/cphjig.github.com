@@ -28,7 +28,7 @@ time, mark, audio, video {
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	color: #232323;
 	background-color: #FBFAF7;
 	margin: 0;
@@ -67,7 +67,7 @@ h2 {
 }
 
 h3 {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 h4, h5, h6 {
@@ -179,7 +179,7 @@ table {
   border: 1px solid #ccc;
   margin-bottom: 32px;
   text-align: left;
- }
+}
 
 th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
@@ -188,12 +188,12 @@ th {
   padding: 10px;
   background: #232323;
   color: #FDFEFB;
- }
+}
 
 td {
   padding: 10px;
 	background: #ccc;
- }
+}
 
 
 /* Wrapper */
@@ -207,7 +207,7 @@ td {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:170px;
+  width:200px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
